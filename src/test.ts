@@ -31,6 +31,7 @@ window.addEventListener('DOMContentLoaded', async () => {
         const app = new Application();
 
         // Initialize with the new v8 method
+        // @ts-ignore
         await app.init({
             width: GAME_WIDTH,
             height: GAME_HEIGHT,
