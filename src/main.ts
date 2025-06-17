@@ -1,5 +1,5 @@
 // Import specific components from PixiJS
-import { Application, Graphics, Text, Container } from 'pixi.js';
+import { Application, Graphics, Text } from 'pixi.js';
 
 console.log('Starting game initialization...');
 
